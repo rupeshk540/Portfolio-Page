@@ -1,2 +1,2 @@
 # Portfolio-Page
-It is Portfolio page design. HTML, CSS is used in this
+It is design of Portfolio Page by using HTML and CSS. 
